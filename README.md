@@ -45,7 +45,7 @@ The application uses DOS interrupts for input and output operations.
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/YourAssemblyProject.git
+   git clone 
    ```
 2. Navigate to the project directory:
    ```bash
